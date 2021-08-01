@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaremGohar
-- 👀 I’m interested in swift
+- 👀 I’m interested in swift & python (iOS, tensorflow)
 - 🌱 I’m currently learning Machine learning using tensorflow
 - 💞️ I’m looking to collaborate on iOS mobile apps using machine learning projects
 - 📫 you can reach me on email at piooneer77@gmail.com
